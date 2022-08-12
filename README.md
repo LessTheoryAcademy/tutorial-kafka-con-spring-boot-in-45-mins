@@ -14,7 +14,7 @@ Impareremo Kafka con Spring scrivendo tanto codice insieme e durante lo sviluppo
 Tutorial Kafka con Spring in 45 mins : il tutorial per imparare Kafka con Spring in pochissimo tempo, con meno teoria e più pratica! 
 
 ## Vuoi seguire tutto il tutorial? Eccoti il link dei video! :) 
-https://www.youtube.com/watch?v=9o6wxgmRNKM&t=758s
+https://www.youtube.com/watch?v=9o6wxgmRNKM&
 
 Buono studio! :)
 
